@@ -1,0 +1,15 @@
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\HomeworkVariablesApp\HomeworkVariables\bin\Debug\net6.0\HomeworkVariables.exe
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\HomeworkVariablesApp\HomeworkVariables\bin\Debug\net6.0\HomeworkVariables.deps.json
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\HomeworkVariablesApp\HomeworkVariables\bin\Debug\net6.0\HomeworkVariables.runtimeconfig.json
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\HomeworkVariablesApp\HomeworkVariables\bin\Debug\net6.0\HomeworkVariables.dll
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\HomeworkVariablesApp\HomeworkVariables\bin\Debug\net6.0\HomeworkVariables.pdb
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\HomeworkVariablesApp\HomeworkVariables\obj\Debug\net6.0\HomeworkVariables.csproj.AssemblyReference.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\HomeworkVariablesApp\HomeworkVariables\obj\Debug\net6.0\HomeworkVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\HomeworkVariablesApp\HomeworkVariables\obj\Debug\net6.0\HomeworkVariables.AssemblyInfoInputs.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\HomeworkVariablesApp\HomeworkVariables\obj\Debug\net6.0\HomeworkVariables.AssemblyInfo.cs
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\HomeworkVariablesApp\HomeworkVariables\obj\Debug\net6.0\HomeworkVariables.csproj.CoreCompileInputs.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\HomeworkVariablesApp\HomeworkVariables\obj\Debug\net6.0\HomeworkVariables.dll
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\HomeworkVariablesApp\HomeworkVariables\obj\Debug\net6.0\refint\HomeworkVariables.dll
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\HomeworkVariablesApp\HomeworkVariables\obj\Debug\net6.0\HomeworkVariables.pdb
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\HomeworkVariablesApp\HomeworkVariables\obj\Debug\net6.0\HomeworkVariables.genruntimeconfig.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\HomeworkVariablesApp\HomeworkVariables\obj\Debug\net6.0\ref\HomeworkVariables.dll

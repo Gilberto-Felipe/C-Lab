@@ -1,0 +1,16 @@
+Homework 2
+
+Capture a user's age from the Console and then identify how old they will be in 25 years, as well as how old they were 25 years ago. Print that information to the Console in natural language.
+
+Task
+
+- Ask user's age
+- Capture user's age
+- Do math addition
+- Do math substraction
+- Print in Console with natural language
+
+
+input> 5
+output> Your age in 25 years will be 30.
+      > Your age 25 years ago were -20.

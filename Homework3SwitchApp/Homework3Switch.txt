@@ -1,0 +1,13 @@
+Homework 3
+
+Create a Console Application that asks the user for their name. Welcome me (Tim) as Professor or anyone else as student. Make sure that "TIM" also gets called professor.
+
+
+Tasks
+- Welcome the user
+- Ask for the first name
+- Capture the input
+- If the user is Tim or TIM print "Welcome Professor"
+- Otherwise, print "Welcome student"
+
+end

@@ -1,0 +1,25 @@
+Homework 4 Mini project
+
+Plan and build a Console application that asks a user for their name and age. If their name is Bob or Sue, address them as Professor. If the person is under 21, recommend they wait X years to start this class.
+
+
+Console App
+
+
+Tasks
+// Welcome the user
+// Ask for the name
+	What is the name> first name, last name, middle name, prefer name, all together?
+	> first name
+// If the name i Bob or Sue, print Welcome Professor.	
+// Else...
+	What if their are not the professors.
+	> Print Welcome dear and smart students.
+// Ask for the name
+// Compare the age of the user against 21.
+	If age is under 21 Recommend wait {x} years to start the class.
+	What is x year, how I calculate 
+	> x = 21 - age
+	What if the year is equal or grater than 21?
+	> Congrats! Take the course now.
+// Enjoy your day. Bye.

@@ -1,0 +1,33 @@
+Pruebas del Homework4 MiniProyect
+
+Variables
+
+Nombre | edad | 21-edad
+
+18 	20	1
+bob 5:36 PM 3/27/2023	
+
+Condiciones
+
+* bob o sue (mayusculas o minusculas)
+* otros nombres (mayusculas o minusculas)
+
+* de 0 a 21
+* de 21 a infinito...
+* caso invalido> no numero | numero negativo
+
+Valores
+bob
+sue
+sergio - ok
+18 - ok
+
+BoB
+SuE
+SERGIO
+
+15
+21
+30
+-45
+Hola -ok

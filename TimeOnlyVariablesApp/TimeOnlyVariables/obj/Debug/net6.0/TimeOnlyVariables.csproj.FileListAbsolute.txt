@@ -1,0 +1,15 @@
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\TimeOnlyVariablesApp\TimeOnlyVariables\bin\Debug\net6.0\TimeOnlyVariables.exe
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\TimeOnlyVariablesApp\TimeOnlyVariables\bin\Debug\net6.0\TimeOnlyVariables.deps.json
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\TimeOnlyVariablesApp\TimeOnlyVariables\bin\Debug\net6.0\TimeOnlyVariables.runtimeconfig.json
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\TimeOnlyVariablesApp\TimeOnlyVariables\bin\Debug\net6.0\TimeOnlyVariables.dll
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\TimeOnlyVariablesApp\TimeOnlyVariables\bin\Debug\net6.0\TimeOnlyVariables.pdb
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\TimeOnlyVariablesApp\TimeOnlyVariables\obj\Debug\net6.0\TimeOnlyVariables.csproj.AssemblyReference.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\TimeOnlyVariablesApp\TimeOnlyVariables\obj\Debug\net6.0\TimeOnlyVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\TimeOnlyVariablesApp\TimeOnlyVariables\obj\Debug\net6.0\TimeOnlyVariables.AssemblyInfoInputs.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\TimeOnlyVariablesApp\TimeOnlyVariables\obj\Debug\net6.0\TimeOnlyVariables.AssemblyInfo.cs
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\TimeOnlyVariablesApp\TimeOnlyVariables\obj\Debug\net6.0\TimeOnlyVariables.csproj.CoreCompileInputs.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\TimeOnlyVariablesApp\TimeOnlyVariables\obj\Debug\net6.0\TimeOnlyVariables.dll
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\TimeOnlyVariablesApp\TimeOnlyVariables\obj\Debug\net6.0\refint\TimeOnlyVariables.dll
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\TimeOnlyVariablesApp\TimeOnlyVariables\obj\Debug\net6.0\TimeOnlyVariables.pdb
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\TimeOnlyVariablesApp\TimeOnlyVariables\obj\Debug\net6.0\TimeOnlyVariables.genruntimeconfig.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\TimeOnlyVariablesApp\TimeOnlyVariables\obj\Debug\net6.0\ref\TimeOnlyVariables.dll

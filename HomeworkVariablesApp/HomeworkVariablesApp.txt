@@ -1,0 +1,14 @@
+Homework VariableApp
+--------------------
+
+
+Create a console app that has variables to hold
+
+- person's name
+- age
+- if they are alive
+- phone number
+
+
+Restriction
+* We do not need to capture these values from user

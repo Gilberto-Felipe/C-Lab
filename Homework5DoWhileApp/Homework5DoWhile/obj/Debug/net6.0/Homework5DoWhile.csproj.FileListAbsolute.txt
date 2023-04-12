@@ -1,0 +1,15 @@
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\Homework5DoWhileApp\Homework5DoWhile\bin\Debug\net6.0\Homework5DoWhile.exe
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\Homework5DoWhileApp\Homework5DoWhile\bin\Debug\net6.0\Homework5DoWhile.deps.json
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\Homework5DoWhileApp\Homework5DoWhile\bin\Debug\net6.0\Homework5DoWhile.runtimeconfig.json
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\Homework5DoWhileApp\Homework5DoWhile\bin\Debug\net6.0\Homework5DoWhile.dll
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\Homework5DoWhileApp\Homework5DoWhile\bin\Debug\net6.0\Homework5DoWhile.pdb
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\Homework5DoWhileApp\Homework5DoWhile\obj\Debug\net6.0\Homework5DoWhile.csproj.AssemblyReference.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\Homework5DoWhileApp\Homework5DoWhile\obj\Debug\net6.0\Homework5DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\Homework5DoWhileApp\Homework5DoWhile\obj\Debug\net6.0\Homework5DoWhile.AssemblyInfoInputs.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\Homework5DoWhileApp\Homework5DoWhile\obj\Debug\net6.0\Homework5DoWhile.AssemblyInfo.cs
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\Homework5DoWhileApp\Homework5DoWhile\obj\Debug\net6.0\Homework5DoWhile.csproj.CoreCompileInputs.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\Homework5DoWhileApp\Homework5DoWhile\obj\Debug\net6.0\Homework5DoWhile.dll
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\Homework5DoWhileApp\Homework5DoWhile\obj\Debug\net6.0\refint\Homework5DoWhile.dll
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\Homework5DoWhileApp\Homework5DoWhile\obj\Debug\net6.0\Homework5DoWhile.pdb
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\Homework5DoWhileApp\Homework5DoWhile\obj\Debug\net6.0\Homework5DoWhile.genruntimeconfig.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\Homework5DoWhileApp\Homework5DoWhile\obj\Debug\net6.0\ref\Homework5DoWhile.dll

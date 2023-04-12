@@ -1,0 +1,15 @@
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\DateOnlyVariableApp\DateOnlyVariable\bin\Debug\net6.0\DateOnlyVariable.exe
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\DateOnlyVariableApp\DateOnlyVariable\bin\Debug\net6.0\DateOnlyVariable.deps.json
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\DateOnlyVariableApp\DateOnlyVariable\bin\Debug\net6.0\DateOnlyVariable.runtimeconfig.json
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\DateOnlyVariableApp\DateOnlyVariable\bin\Debug\net6.0\DateOnlyVariable.dll
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\DateOnlyVariableApp\DateOnlyVariable\bin\Debug\net6.0\DateOnlyVariable.pdb
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\DateOnlyVariableApp\DateOnlyVariable\obj\Debug\net6.0\DateOnlyVariable.csproj.AssemblyReference.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\DateOnlyVariableApp\DateOnlyVariable\obj\Debug\net6.0\DateOnlyVariable.GeneratedMSBuildEditorConfig.editorconfig
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\DateOnlyVariableApp\DateOnlyVariable\obj\Debug\net6.0\DateOnlyVariable.AssemblyInfoInputs.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\DateOnlyVariableApp\DateOnlyVariable\obj\Debug\net6.0\DateOnlyVariable.AssemblyInfo.cs
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\DateOnlyVariableApp\DateOnlyVariable\obj\Debug\net6.0\DateOnlyVariable.csproj.CoreCompileInputs.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\DateOnlyVariableApp\DateOnlyVariable\obj\Debug\net6.0\DateOnlyVariable.dll
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\DateOnlyVariableApp\DateOnlyVariable\obj\Debug\net6.0\refint\DateOnlyVariable.dll
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\DateOnlyVariableApp\DateOnlyVariable\obj\Debug\net6.0\DateOnlyVariable.pdb
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\DateOnlyVariableApp\DateOnlyVariable\obj\Debug\net6.0\DateOnlyVariable.genruntimeconfig.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\DateOnlyVariableApp\DateOnlyVariable\obj\Debug\net6.0\ref\DateOnlyVariable.dll

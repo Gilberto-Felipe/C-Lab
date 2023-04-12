@@ -1,0 +1,13 @@
+Homework 5 Do While Requirements
+
+Create a Console App that asks the user for their name. Welcome "Tim" as Professor, or anyone else as student. Do this until the user types "exit".
+
+
+Console APP
+
+Tasks
+
+- Welcome to the app
+- Preguntar por los nombres una y otra vez, hasta que el usuario escriba exit.
+- Si el usuario es Tim, entonces imprimir Welcome Professor {firstname}
+- Terminar cuando presionen "exit"

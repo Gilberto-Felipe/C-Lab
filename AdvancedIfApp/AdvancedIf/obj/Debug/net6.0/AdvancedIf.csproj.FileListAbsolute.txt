@@ -1,0 +1,15 @@
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\AdvancedIfApp\AdvancedIf\bin\Debug\net6.0\AdvancedIf.exe
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\AdvancedIfApp\AdvancedIf\bin\Debug\net6.0\AdvancedIf.deps.json
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\AdvancedIfApp\AdvancedIf\bin\Debug\net6.0\AdvancedIf.runtimeconfig.json
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\AdvancedIfApp\AdvancedIf\bin\Debug\net6.0\AdvancedIf.dll
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\AdvancedIfApp\AdvancedIf\bin\Debug\net6.0\AdvancedIf.pdb
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\AdvancedIfApp\AdvancedIf\obj\Debug\net6.0\AdvancedIf.csproj.AssemblyReference.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\AdvancedIfApp\AdvancedIf\obj\Debug\net6.0\AdvancedIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\AdvancedIfApp\AdvancedIf\obj\Debug\net6.0\AdvancedIf.AssemblyInfoInputs.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\AdvancedIfApp\AdvancedIf\obj\Debug\net6.0\AdvancedIf.AssemblyInfo.cs
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\AdvancedIfApp\AdvancedIf\obj\Debug\net6.0\AdvancedIf.csproj.CoreCompileInputs.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\AdvancedIfApp\AdvancedIf\obj\Debug\net6.0\AdvancedIf.dll
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\AdvancedIfApp\AdvancedIf\obj\Debug\net6.0\refint\AdvancedIf.dll
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\AdvancedIfApp\AdvancedIf\obj\Debug\net6.0\AdvancedIf.pdb
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\AdvancedIfApp\AdvancedIf\obj\Debug\net6.0\AdvancedIf.genruntimeconfig.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\AdvancedIfApp\AdvancedIf\obj\Debug\net6.0\ref\AdvancedIf.dll

@@ -1,0 +1,13 @@
+Homework7List
+
+Add students to a class roster List until there are no more students. Then print out the count of the students to the Console.
+
+Console App.
+
+Tasks:
+
+Welcome to the app.
+Ask for the student name.
+If none stop the list
+Count the number of students in the list.
+Print the result to console.
