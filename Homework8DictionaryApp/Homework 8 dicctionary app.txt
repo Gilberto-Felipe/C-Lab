@@ -1,0 +1,12 @@
+Homework 8 Dictionary
+
+Create a Dictionary list of employee IDs and the name that goes with the ID. Fill in a few records. Then ask the user for their ID and return their name.
+
+Console App.
+
+Tasks
+Welcome the user.
+Fill in a dictionary set with few records.
+Ask the user for their ID.
+And return the name of the user based on the ID.
+Say bye!
