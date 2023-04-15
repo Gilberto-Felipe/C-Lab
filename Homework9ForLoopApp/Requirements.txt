@@ -1,0 +1,27 @@
+Homework 9 ForLoops
+
+Create a Console App.
+
+Ask the user for a comma-separated list of firts names (no spaces). Split the string into a string array. Loop through the array and print "Hello <name>" to the console for each person.
+
+
+Task
+Say Hello
+Ask the user for a comma-separated list of firts names (no spaces)
+Split the string into a string array.
+Loop through the array and print "Hello <name>" to the console for each person.
+say good bye
+
+
+
+Test
+
+Edga cases
+Array is empty -> error
+Array with 1 name -> ok
+Array with multiple names -> ok
+
+Revisar inicio y fin del array,
+zero base... inicia en 0, final es final-1
+
+
