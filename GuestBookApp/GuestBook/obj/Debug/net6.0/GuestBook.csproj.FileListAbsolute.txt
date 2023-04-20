@@ -1,0 +1,15 @@
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\GuestBookApp\GuestBook\bin\Debug\net6.0\GuestBook.exe
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\GuestBookApp\GuestBook\bin\Debug\net6.0\GuestBook.deps.json
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\GuestBookApp\GuestBook\bin\Debug\net6.0\GuestBook.runtimeconfig.json
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\GuestBookApp\GuestBook\bin\Debug\net6.0\GuestBook.dll
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\GuestBookApp\GuestBook\bin\Debug\net6.0\GuestBook.pdb
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\GuestBookApp\GuestBook\obj\Debug\net6.0\GuestBook.csproj.AssemblyReference.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\GuestBookApp\GuestBook\obj\Debug\net6.0\GuestBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\GuestBookApp\GuestBook\obj\Debug\net6.0\GuestBook.AssemblyInfoInputs.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\GuestBookApp\GuestBook\obj\Debug\net6.0\GuestBook.AssemblyInfo.cs
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\GuestBookApp\GuestBook\obj\Debug\net6.0\GuestBook.csproj.CoreCompileInputs.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\GuestBookApp\GuestBook\obj\Debug\net6.0\GuestBook.dll
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\GuestBookApp\GuestBook\obj\Debug\net6.0\refint\GuestBook.dll
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\GuestBookApp\GuestBook\obj\Debug\net6.0\GuestBook.pdb
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\GuestBookApp\GuestBook\obj\Debug\net6.0\GuestBook.genruntimeconfig.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\GuestBookApp\GuestBook\obj\Debug\net6.0\ref\GuestBook.dll
