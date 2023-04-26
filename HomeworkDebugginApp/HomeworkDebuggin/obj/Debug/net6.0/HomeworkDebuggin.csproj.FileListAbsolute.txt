@@ -1,0 +1,15 @@
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\HomeworkDebugginApp\HomeworkDebuggin\bin\Debug\net6.0\HomeworkDebuggin.exe
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\HomeworkDebugginApp\HomeworkDebuggin\bin\Debug\net6.0\HomeworkDebuggin.deps.json
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\HomeworkDebugginApp\HomeworkDebuggin\bin\Debug\net6.0\HomeworkDebuggin.runtimeconfig.json
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\HomeworkDebugginApp\HomeworkDebuggin\bin\Debug\net6.0\HomeworkDebuggin.dll
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\HomeworkDebugginApp\HomeworkDebuggin\bin\Debug\net6.0\HomeworkDebuggin.pdb
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\HomeworkDebugginApp\HomeworkDebuggin\obj\Debug\net6.0\HomeworkDebuggin.csproj.AssemblyReference.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\HomeworkDebugginApp\HomeworkDebuggin\obj\Debug\net6.0\HomeworkDebuggin.GeneratedMSBuildEditorConfig.editorconfig
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\HomeworkDebugginApp\HomeworkDebuggin\obj\Debug\net6.0\HomeworkDebuggin.AssemblyInfoInputs.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\HomeworkDebugginApp\HomeworkDebuggin\obj\Debug\net6.0\HomeworkDebuggin.AssemblyInfo.cs
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\HomeworkDebugginApp\HomeworkDebuggin\obj\Debug\net6.0\HomeworkDebuggin.csproj.CoreCompileInputs.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\HomeworkDebugginApp\HomeworkDebuggin\obj\Debug\net6.0\HomeworkDebuggin.dll
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\HomeworkDebugginApp\HomeworkDebuggin\obj\Debug\net6.0\refint\HomeworkDebuggin.dll
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\HomeworkDebugginApp\HomeworkDebuggin\obj\Debug\net6.0\HomeworkDebuggin.pdb
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\HomeworkDebugginApp\HomeworkDebuggin\obj\Debug\net6.0\HomeworkDebuggin.genruntimeconfig.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\HomeworkDebugginApp\HomeworkDebuggin\obj\Debug\net6.0\ref\HomeworkDebuggin.dll
