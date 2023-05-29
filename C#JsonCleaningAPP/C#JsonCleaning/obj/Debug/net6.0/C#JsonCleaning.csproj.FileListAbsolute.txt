@@ -1,0 +1,15 @@
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\C#JsonCleaningAPP\C#JsonCleaning\bin\Debug\net6.0\C#JsonCleaning.exe
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\C#JsonCleaningAPP\C#JsonCleaning\bin\Debug\net6.0\C#JsonCleaning.deps.json
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\C#JsonCleaningAPP\C#JsonCleaning\bin\Debug\net6.0\C#JsonCleaning.runtimeconfig.json
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\C#JsonCleaningAPP\C#JsonCleaning\bin\Debug\net6.0\C#JsonCleaning.dll
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\C#JsonCleaningAPP\C#JsonCleaning\bin\Debug\net6.0\C#JsonCleaning.pdb
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\C#JsonCleaningAPP\C#JsonCleaning\obj\Debug\net6.0\C#JsonCleaning.csproj.AssemblyReference.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\C#JsonCleaningAPP\C#JsonCleaning\obj\Debug\net6.0\C#JsonCleaning.GeneratedMSBuildEditorConfig.editorconfig
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\C#JsonCleaningAPP\C#JsonCleaning\obj\Debug\net6.0\C#JsonCleaning.AssemblyInfoInputs.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\C#JsonCleaningAPP\C#JsonCleaning\obj\Debug\net6.0\C#JsonCleaning.AssemblyInfo.cs
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\C#JsonCleaningAPP\C#JsonCleaning\obj\Debug\net6.0\C#JsonCleaning.csproj.CoreCompileInputs.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\C#JsonCleaningAPP\C#JsonCleaning\obj\Debug\net6.0\C#JsonCleaning.dll
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\C#JsonCleaningAPP\C#JsonCleaning\obj\Debug\net6.0\refint\C#JsonCleaning.dll
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\C#JsonCleaningAPP\C#JsonCleaning\obj\Debug\net6.0\C#JsonCleaning.pdb
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\C#JsonCleaningAPP\C#JsonCleaning\obj\Debug\net6.0\C#JsonCleaning.genruntimeconfig.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\C#JsonCleaningAPP\C#JsonCleaning\obj\Debug\net6.0\ref\C#JsonCleaning.dll

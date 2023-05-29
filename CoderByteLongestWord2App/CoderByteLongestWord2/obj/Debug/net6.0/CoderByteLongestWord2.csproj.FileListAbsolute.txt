@@ -1,0 +1,15 @@
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\CoderByteLongestWord2App\CoderByteLongestWord2\bin\Debug\net6.0\CoderByteLongestWord2.exe
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\CoderByteLongestWord2App\CoderByteLongestWord2\bin\Debug\net6.0\CoderByteLongestWord2.deps.json
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\CoderByteLongestWord2App\CoderByteLongestWord2\bin\Debug\net6.0\CoderByteLongestWord2.runtimeconfig.json
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\CoderByteLongestWord2App\CoderByteLongestWord2\bin\Debug\net6.0\CoderByteLongestWord2.dll
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\CoderByteLongestWord2App\CoderByteLongestWord2\bin\Debug\net6.0\CoderByteLongestWord2.pdb
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\CoderByteLongestWord2App\CoderByteLongestWord2\obj\Debug\net6.0\CoderByteLongestWord2.csproj.AssemblyReference.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\CoderByteLongestWord2App\CoderByteLongestWord2\obj\Debug\net6.0\CoderByteLongestWord2.GeneratedMSBuildEditorConfig.editorconfig
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\CoderByteLongestWord2App\CoderByteLongestWord2\obj\Debug\net6.0\CoderByteLongestWord2.AssemblyInfoInputs.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\CoderByteLongestWord2App\CoderByteLongestWord2\obj\Debug\net6.0\CoderByteLongestWord2.AssemblyInfo.cs
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\CoderByteLongestWord2App\CoderByteLongestWord2\obj\Debug\net6.0\CoderByteLongestWord2.csproj.CoreCompileInputs.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\CoderByteLongestWord2App\CoderByteLongestWord2\obj\Debug\net6.0\CoderByteLongestWord2.dll
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\CoderByteLongestWord2App\CoderByteLongestWord2\obj\Debug\net6.0\refint\CoderByteLongestWord2.dll
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\CoderByteLongestWord2App\CoderByteLongestWord2\obj\Debug\net6.0\CoderByteLongestWord2.pdb
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\CoderByteLongestWord2App\CoderByteLongestWord2\obj\Debug\net6.0\CoderByteLongestWord2.genruntimeconfig.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\CoderByteLongestWord2App\CoderByteLongestWord2\obj\Debug\net6.0\ref\CoderByteLongestWord2.dll

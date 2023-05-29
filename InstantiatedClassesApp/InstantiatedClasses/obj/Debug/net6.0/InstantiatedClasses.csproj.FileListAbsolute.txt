@@ -1,0 +1,15 @@
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\InstantiatedClassesApp\InstantiatedClasses\bin\Debug\net6.0\InstantiatedClasses.exe
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\InstantiatedClassesApp\InstantiatedClasses\bin\Debug\net6.0\InstantiatedClasses.deps.json
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\InstantiatedClassesApp\InstantiatedClasses\bin\Debug\net6.0\InstantiatedClasses.runtimeconfig.json
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\InstantiatedClassesApp\InstantiatedClasses\bin\Debug\net6.0\InstantiatedClasses.dll
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\InstantiatedClassesApp\InstantiatedClasses\bin\Debug\net6.0\InstantiatedClasses.pdb
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\InstantiatedClassesApp\InstantiatedClasses\obj\Debug\net6.0\InstantiatedClasses.csproj.AssemblyReference.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\InstantiatedClassesApp\InstantiatedClasses\obj\Debug\net6.0\InstantiatedClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\InstantiatedClassesApp\InstantiatedClasses\obj\Debug\net6.0\InstantiatedClasses.AssemblyInfoInputs.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\InstantiatedClassesApp\InstantiatedClasses\obj\Debug\net6.0\InstantiatedClasses.AssemblyInfo.cs
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\InstantiatedClassesApp\InstantiatedClasses\obj\Debug\net6.0\InstantiatedClasses.csproj.CoreCompileInputs.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\InstantiatedClassesApp\InstantiatedClasses\obj\Debug\net6.0\InstantiatedClasses.dll
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\InstantiatedClassesApp\InstantiatedClasses\obj\Debug\net6.0\refint\InstantiatedClasses.dll
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\InstantiatedClassesApp\InstantiatedClasses\obj\Debug\net6.0\InstantiatedClasses.pdb
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\InstantiatedClassesApp\InstantiatedClasses\obj\Debug\net6.0\InstantiatedClasses.genruntimeconfig.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\InstantiatedClassesApp\InstantiatedClasses\obj\Debug\net6.0\ref\InstantiatedClasses.dll
