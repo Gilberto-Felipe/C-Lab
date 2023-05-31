@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
+﻿
 // Capture info about each guest 
 // Assumption is at least one guest and unknown maxium
 // info > first name, last name, number of people in the party, and message to the host
@@ -28,7 +27,7 @@ static void Welcome()
     Console.WriteLine("*************************\n");
 }
 
-static int GetPartyNumber()
+static int GetPartyNumber(string message)
 {
     bool isNumber;
     int output;
@@ -36,7 +35,7 @@ static int GetPartyNumber()
 
     do
     {
-        Console.Write("How many people is in your party? : ");
+        Console.Write(message);
         string strNumber = Console.ReadLine();
 
         isNumber = int.TryParse(strNumber, out output);
@@ -60,7 +59,7 @@ static void GetGuestsInfo(List<GuestModel> guests)
 
         guest.LastName = GetGuestData("What's your last name: ");
 
-        guest.PeopleInParty = GetPartyNumber();
+        guest.PeopleInParty = GetPartyNumber("How many people is in your party? : ");
 
         guest.MessageToHost = GetGuestData("What's your message to the host? : ");
 
