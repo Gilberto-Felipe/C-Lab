@@ -1,0 +1,44 @@
+BattleshipLiteApp
+
+
+Necesitamos un ganador.
+Creamos un PlayerInfoModel winner = null // es un objeto vacio. Es la referencia al espacio en memoria donde se guarda el objeto, pero todavia no esta inicializado.
+Winner a recibir los datos del jugador ganador...
+
+
+Falta la dinámica del juego: 
+Tomar turnos para disparar mientras no haya un ganador
+Mientras winner == null
+-- Turno del jugador 1 o activo
+// Mostrar el grid de disparo del jugador 1
+// Preguntar al jugador por su disparo
+// evaluar si el disparo es válido
+// evaluar el resultado del tiro '' hundio el barco o no
+// evaluar si el juego termino '' si el jugador hundio los 5 barcos enemigos
+// Si el juego acabo, setear jugador 1 como ganador
+// si no, cambiar los jugadores, es decir, pasar el turno al jugador 2
+
+
+-- 
+
+Tienes dos jugadores
+Los dos jugadores tienen que disparar. ¿Cómo manejas los turnos?
+
+opcion naive o bruta fácil
+codigo del turno del jugador 1
+codigo del turno del jugador 2
+
+Pero es repetir código. DRY. Prácticamente es lo mismo, solo cambia la variable que guarda al jugador...
+
+¿Se puede mejorar? SI.
+
+Un par de opciones son:
+1 Usar una variable aux tipo PlayerInfoModel para hacer el cambio de jugador en su turno.
+2 Usar una ED, una tupla con dos elementos (los dos jugadores), y cada turno intercambias de lugar los elementos de la tupla y listo. Es como cambiar de sillas.
+
+
+
+
+
+
+

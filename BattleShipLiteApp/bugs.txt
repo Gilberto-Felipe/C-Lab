@@ -1,0 +1,21 @@
+Bugs
+
+* after grid displays, print to empty lines OK
+
+* print who is shooting - OK
+* tell the result of the shot and put one empty line afterwards
+	create a new method DisplayShotResults(row, column, isAHit)
+		if is a hit print row,column is a hit
+		else is print row,column is a miss
+
+* put a space after the hit/miss to keep spacing accurate _X__ , _O__, _?__ OK
+
+* winner not declare after all ships sunks. OK
+	IdentifyShotResult
+		ship.Status = status.Sunk
+
+* invalidshot crash OK
+	SplitShotIntoRowAndColumn -> se rompe
+	ponerlo en un try catch y cachar el error para avisar al usuario
+
+
