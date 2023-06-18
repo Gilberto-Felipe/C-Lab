@@ -1,0 +1,8 @@
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\InheritanceDemoApp\InheritanceDemo\bin\Debug\InheritanceDemo.exe.config
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\InheritanceDemoApp\InheritanceDemo\bin\Debug\InheritanceDemo.exe
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\InheritanceDemoApp\InheritanceDemo\bin\Debug\InheritanceDemo.pdb
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\InheritanceDemoApp\InheritanceDemo\obj\Debug\InheritanceDemo.csproj.AssemblyReference.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\InheritanceDemoApp\InheritanceDemo\obj\Debug\InheritanceDemo.csproj.SuggestedBindingRedirects.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\InheritanceDemoApp\InheritanceDemo\obj\Debug\InheritanceDemo.csproj.CoreCompileInputs.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\InheritanceDemoApp\InheritanceDemo\obj\Debug\InheritanceDemo.exe
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\InheritanceDemoApp\InheritanceDemo\obj\Debug\InheritanceDemo.pdb
