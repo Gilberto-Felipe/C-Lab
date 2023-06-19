@@ -197,5 +197,18 @@ namespace BattleShipLibrary
 
             model.ShotGrid.Add(spot);
         }
+        public static int RollDice()
+        {
+            var random = new Random();
+            int output = random.Next(1, 7);
+            return output;
+        }
+
+        public static (PlayerInfoModel, PlayerInfoModel) SwapTurns(PlayerInfoModel activePlayer, PlayerInfoModel opponent)
+        {
+            // Swap variables with a Tuple
+            (activePlayer, opponent) = (opponent, activePlayer);
+            return (activePlayer, opponent);
+        }
     }
 }

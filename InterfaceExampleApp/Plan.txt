@@ -1,0 +1,36 @@
+create a IRun interface and apply it to a Person class and an Animal class.
+
+Store both types in a List of IRun objects.
+
+console
+
+Walkthrough
+	crear una lista de IRun
+	Imprimirla
+
+Open Requirements
+	console app
+	.net 4.7.2
+	IRun interface
+	Person class
+	Animal class
+	Store in a List of IRun
+	Imprimir lista
+	separar los diferentes tipos de clase
+	
+
+UI Design
+	no hay ui
+	solo imprime
+
+Logic Design
+	Declarar la interfaz y las clases
+	implementar la interfaz en las clases
+	guardar Lista
+	imprmir la interfaz comun
+		separar por tipo de clase
+
+Data Design
+	Interfaz IRun> 
+	Class AnimalModel
+	Class PersonModel : AnimalModel

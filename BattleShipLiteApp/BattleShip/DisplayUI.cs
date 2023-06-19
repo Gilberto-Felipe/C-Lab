@@ -8,6 +8,7 @@ namespace BattleShipLiteUI
     {
         public static void IdentifyWinner(PlayerInfoModel winner)
         {
+            Console.Clear();
             Console.WriteLine($"{winner.UserName} win!");
             Console.WriteLine($"{winner.UserName} took {GameLogic.GetShotCount(winner)} shots.");
         }
@@ -44,6 +45,7 @@ namespace BattleShipLiteUI
             GameLogic.MarkShortResult(activePlayer, row, column, isAHit);
 
             DisplayShotResults(row, column, isAHit);
+
             Console.ReadLine();
         }
 
@@ -143,9 +145,9 @@ namespace BattleShipLiteUI
                 {
                     isValidLocation = GameLogic.PlaceShip(model, location);
                 }
-                catch (Exception ex)
+                catch (Exception)
                 {
-                    Console.WriteLine("Error: " + ex.Message);
+                    // catch in the isValidLocation == false
                 }
 
                 if (isValidLocation == false)
@@ -153,6 +155,63 @@ namespace BattleShipLiteUI
                     Console.WriteLine("It's not a valid location. Please, try again.");
                 }
             } while (model.ShipLocations.Count < 5);
+        }
+
+        public static PlayerInfoModel PlayGame(PlayerInfoModel activePlayer, PlayerInfoModel opponent)
+        {
+            PlayerInfoModel winner = null;
+
+            do
+            {
+                DisplayUI.DisplayShotGrid(activePlayer);
+
+                DisplayUI.RecordPlayerShot(activePlayer, opponent);
+
+                bool doesGameContinue = GameLogic.PlayerStillActive(opponent);
+
+                if (doesGameContinue)
+                {
+                    (activePlayer, opponent) = GameLogic.SwapTurns(activePlayer, opponent);
+
+                    Console.Clear();
+                }
+                else
+                {
+                    winner = activePlayer;
+                }
+            } while (winner == null);
+
+            return winner;
+        }
+
+        public static (PlayerInfoModel, PlayerInfoModel) SortTurns(PlayerInfoModel activePlayer, PlayerInfoModel opponent)
+        {
+            Console.WriteLine("Rolling the Dices to get the turns.\n");
+
+            int firstDice;
+            int secondDice;
+            bool isADraw = false;
+
+            do
+            {
+                firstDice = GameLogic.RollDice();
+                Console.WriteLine($"{activePlayer.UserName.ToUpper()} dice result: {firstDice}.\n");
+
+                secondDice = GameLogic.RollDice();
+                Console.WriteLine($"{opponent.UserName.ToUpper()} dice result: {secondDice}.\n");
+
+                if (firstDice < secondDice)
+                {
+                    (activePlayer, opponent) = GameLogic.SwapTurns(activePlayer, opponent);
+                }
+                else if (firstDice == secondDice)
+                {
+                    Console.WriteLine("It was a draw. Rolling the dices again.\n");
+                    isADraw = true;
+                }
+            } while (isADraw);
+
+            return (activePlayer, opponent);
         }
     }
 }
