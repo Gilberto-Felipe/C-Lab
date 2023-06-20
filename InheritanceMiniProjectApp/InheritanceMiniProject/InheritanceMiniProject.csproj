@@ -43,11 +43,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Interfaces\IInventory.cs" />
+    <Compile Include="Interfaces\IPurchasable.cs" />
+    <Compile Include="Interfaces\IRentable.cs" />
+    <Compile Include="Models\Auto.cs" />
+    <Compile Include="Models\Buss.cs" />
+    <Compile Include="Models\Inventory.cs" />
+    <Compile Include="Models\Soda.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

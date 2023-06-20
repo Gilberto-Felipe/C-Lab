@@ -1,0 +1,8 @@
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\InheritanceMiniProjectApp\InheritanceMiniProject\bin\Debug\InheritanceMiniProject.exe.config
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\InheritanceMiniProjectApp\InheritanceMiniProject\bin\Debug\InheritanceMiniProject.exe
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\InheritanceMiniProjectApp\InheritanceMiniProject\bin\Debug\InheritanceMiniProject.pdb
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\InheritanceMiniProjectApp\InheritanceMiniProject\obj\Debug\InheritanceMiniProject.csproj.AssemblyReference.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\InheritanceMiniProjectApp\InheritanceMiniProject\obj\Debug\InheritanceMiniProject.csproj.SuggestedBindingRedirects.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\InheritanceMiniProjectApp\InheritanceMiniProject\obj\Debug\InheritanceMiniProject.csproj.CoreCompileInputs.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\InheritanceMiniProjectApp\InheritanceMiniProject\obj\Debug\InheritanceMiniProject.exe
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\InheritanceMiniProjectApp\InheritanceMiniProject\obj\Debug\InheritanceMiniProject.pdb
