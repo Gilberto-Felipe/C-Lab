@@ -1,0 +1,8 @@
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\AbstractClassApp\AbstractClassTask\bin\Debug\AbstractClassTask.exe.config
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\AbstractClassApp\AbstractClassTask\bin\Debug\AbstractClassTask.exe
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\AbstractClassApp\AbstractClassTask\bin\Debug\AbstractClassTask.pdb
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\AbstractClassApp\AbstractClassTask\obj\Debug\AbstractClassTask.csproj.AssemblyReference.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\AbstractClassApp\AbstractClassTask\obj\Debug\AbstractClassTask.csproj.SuggestedBindingRedirects.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\AbstractClassApp\AbstractClassTask\obj\Debug\AbstractClassTask.csproj.CoreCompileInputs.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\AbstractClassApp\AbstractClassTask\obj\Debug\AbstractClassTask.exe
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\AbstractClassApp\AbstractClassTask\obj\Debug\AbstractClassTask.pdb
