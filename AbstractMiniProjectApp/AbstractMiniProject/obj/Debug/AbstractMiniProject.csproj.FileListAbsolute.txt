@@ -1,0 +1,11 @@
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\AbstractMiniProjectApp\AbstractMiniProject\obj\Debug\AbstractMiniProject.csproj.AssemblyReference.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\AbstractMiniProjectApp\AbstractMiniProject\obj\Debug\AbstractMiniProject.csproj.SuggestedBindingRedirects.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\AbstractMiniProjectApp\AbstractMiniProject\obj\Debug\AbstractMiniProject.csproj.CoreCompileInputs.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\AbstractMiniProjectApp\AbstractMiniProject\bin\Debug\AbstractMiniProject.exe.config
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\AbstractMiniProjectApp\AbstractMiniProject\bin\Debug\AbstractMiniProject.exe
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\AbstractMiniProjectApp\AbstractMiniProject\bin\Debug\AbstractMiniProject.pdb
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\AbstractMiniProjectApp\AbstractMiniProject\bin\Debug\GameLogicLibrary.dll
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\AbstractMiniProjectApp\AbstractMiniProject\bin\Debug\GameLogicLibrary.pdb
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\AbstractMiniProjectApp\AbstractMiniProject\obj\Debug\AbstractMiniProject.csproj.CopyComplete
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\AbstractMiniProjectApp\AbstractMiniProject\obj\Debug\AbstractMiniProject.exe
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\AbstractMiniProjectApp\AbstractMiniProject\obj\Debug\AbstractMiniProject.pdb
