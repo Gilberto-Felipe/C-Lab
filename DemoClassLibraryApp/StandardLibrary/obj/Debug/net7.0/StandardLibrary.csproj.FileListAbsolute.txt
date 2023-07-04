@@ -1,0 +1,12 @@
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\DemoClassLibraryApp\StandardLibrary\bin\Debug\net7.0\StandardLibrary.deps.json
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\DemoClassLibraryApp\StandardLibrary\bin\Debug\net7.0\StandardLibrary.dll
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\DemoClassLibraryApp\StandardLibrary\bin\Debug\net7.0\StandardLibrary.pdb
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\DemoClassLibraryApp\StandardLibrary\obj\Debug\net7.0\StandardLibrary.csproj.AssemblyReference.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\DemoClassLibraryApp\StandardLibrary\obj\Debug\net7.0\StandardLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\DemoClassLibraryApp\StandardLibrary\obj\Debug\net7.0\StandardLibrary.AssemblyInfoInputs.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\DemoClassLibraryApp\StandardLibrary\obj\Debug\net7.0\StandardLibrary.AssemblyInfo.cs
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\DemoClassLibraryApp\StandardLibrary\obj\Debug\net7.0\StandardLibrary.csproj.CoreCompileInputs.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\DemoClassLibraryApp\StandardLibrary\obj\Debug\net7.0\StandardLibrary.dll
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\DemoClassLibraryApp\StandardLibrary\obj\Debug\net7.0\refint\StandardLibrary.dll
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\DemoClassLibraryApp\StandardLibrary\obj\Debug\net7.0\StandardLibrary.pdb
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\DemoClassLibraryApp\StandardLibrary\obj\Debug\net7.0\ref\StandardLibrary.dll

@@ -29,7 +29,7 @@ A Problema = Como le hago para obtener las columnas del header de mi lista Si es
 		// regresa las props de personas p.e. = nombre, email, etc.
 	Fin de la reflexion
 
-2 Guardas cada propiedad en una cadena. 
+2 Guardas cada propiedad en una cadena que sera la fila del encabezado
 
 A Problema = Como juntamos el nombre de las columnas/propiedades en una fila??
 
@@ -59,17 +59,29 @@ A Problema como recorremos los datos para guardar/imprimir las celdas de las col
 	El ciclo padre recorre las filas.
 	El ciclo hijo recorre las columnas.
 	En cada columna aniadimos la columna a una cadana, y las vamos concatenando.
-	Al final, tenemos una cadena con los valores de las columnas en una fila.
-	Aniadimos cada fila a la lista de filas.
-	Vamos a guardar la lista de filas en el archivo de texto. 
+		recorro las columnas xq cada T es diferente. Entonces, necesito saber cuantas columnas tiene.
+		Por cada columna, saco el valor de esa columna, del objeto concreto que le voy a pasar (por ejemplo, persona, Carro...)
+			> col.GetValues(item, null)
+			// item es una fila, por cada columna de la fila T... patito dame el item 
+			// 
 	
+	
+	
+	Al final, tenemos una cadena con los valores de las columnas en una fila.
+	
+	
+	Aniadimos cada fila a la lista de filas.
+
 4 Guardar en el archivo las filas
 	File.WriteAllLines(@path, filas)
+	// File pertenece a la clase System.IO (input output)
+	// WriteAllLines es un metodo que guarda IEnumerable s. una lista implementa la interfaz IEnumerable.
 	
 	listo!
 	
 5 Probar el desarrollo
 	En seco, va a guardar el encabezado (el nombre de las columnas) y en cada fila los valores.
+	
 	Ejecutamos el programa. 
 	Abrimos la capeta donde guardamos el archivo de texto con el Explorador de archivos.
 	Comprobamos que esten los valores.
@@ -97,6 +109,7 @@ A Problema. En una condicion validamos el metodo ContienePalabrotas...
 	
 	Para esto, se necesita poner fuera de las dos condiciones una bandera bool que vamos a checar.
 	Al declararla la ponemos en falso.
+	
 	Si el metodo ContienePalabras regresa true, entonces actualizamos la bandera a true y rompemos el clico.
 	Antes del aniadir fila a la lista de filas, ya en el ciclo padre, poemos el segundo if... con la bandera
 	Listo.
@@ -116,7 +129,7 @@ A Para crear el evento generico, tenemos refactorizar. Ahora
 			// item es la fila es el parametro que pasas para que el evento regrese los datos hacia arriba y veamos cual fue el error... que registro/fila fallo.
 			
 	En la clase principal, DataAcccess se suscribira al evento
-		Como DataAcccess recibe <T>, por cada lista de T diferente, debe suscribirse, porque se debe de concretar cada Tipo (lista, en este caso, la lista de personas y de carros) que se pasa al DataAcccess..
+		Como DataAcccess recibe <T>, por cada lista de T diferente, debe suscribirse, porque se debe de concretar cada Tipo (lista, ecw	ess..
 		
 		Por eso, primero se instancia un objeto de DataAcccess por cada Lista<T> con un T diferente.
 		Esos objetos DataAcccess son los que se suscriben.		
