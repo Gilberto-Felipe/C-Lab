@@ -1,0 +1,16 @@
+C:\DPR\Script Test\GenericsEventsProjectApp\GenericsEventsProject\bin\Debug\GenericsEventsProject.exe.config
+C:\DPR\Script Test\GenericsEventsProjectApp\GenericsEventsProject\bin\Debug\GenericsEventsProject.exe
+C:\DPR\Script Test\GenericsEventsProjectApp\GenericsEventsProject\bin\Debug\GenericsEventsProject.pdb
+C:\DPR\Script Test\GenericsEventsProjectApp\GenericsEventsProject\obj\Debug\GenericsEventsProject.csproj.AssemblyReference.cache
+C:\DPR\Script Test\GenericsEventsProjectApp\GenericsEventsProject\obj\Debug\GenericsEventsProject.csproj.SuggestedBindingRedirects.cache
+C:\DPR\Script Test\GenericsEventsProjectApp\GenericsEventsProject\obj\Debug\GenericsEventsProject.csproj.CoreCompileInputs.cache
+C:\DPR\Script Test\GenericsEventsProjectApp\GenericsEventsProject\obj\Debug\GenericsEventsProject.exe
+C:\DPR\Script Test\GenericsEventsProjectApp\GenericsEventsProject\obj\Debug\GenericsEventsProject.pdb
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\GenericsEventsProjectApp\GenericsEventsProject\bin\Debug\GenericsEventsProject.exe.config
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\GenericsEventsProjectApp\GenericsEventsProject\bin\Debug\GenericsEventsProject.exe
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\GenericsEventsProjectApp\GenericsEventsProject\bin\Debug\GenericsEventsProject.pdb
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\GenericsEventsProjectApp\GenericsEventsProject\obj\Debug\GenericsEventsProject.csproj.AssemblyReference.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\GenericsEventsProjectApp\GenericsEventsProject\obj\Debug\GenericsEventsProject.csproj.SuggestedBindingRedirects.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\GenericsEventsProjectApp\GenericsEventsProject\obj\Debug\GenericsEventsProject.csproj.CoreCompileInputs.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\GenericsEventsProjectApp\GenericsEventsProject\obj\Debug\GenericsEventsProject.exe
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\GenericsEventsProjectApp\GenericsEventsProject\obj\Debug\GenericsEventsProject.pdb

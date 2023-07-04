@@ -1,0 +1,159 @@
+Crea lista de PersonModle {nombre, email}
+Crea lista de CarModel {marca, modelo}
+
+instancia listas de cada objeto con datos
+
+crea una clase estatica de DataAcccess
+crea metodo de extension void SaveToCSV de tipo generico, 
+	cuyo objeto que extiende sea List<T>, 
+	que reciba como parametro el filePath de tipo cadena
+	solo para instancias que tengan un constructor vacio, para intancias totalmente nuevas
+
+// El metodo va a guardar los datos que le pasemos en un archivo de texto en la ruta proporcionada.
+
+
+
+1 Paso Obtener las columnas del header
+
+A Problema = Como le hago para obtener las columnas del header de mi lista Si esas no las tengo de forma directa???
+
+	Para obtener las columnas del header... se necesita la Reflexion en C#.
+	Con la Reflexion de C# accedemos a los metadatos de los objetos, sus propiedades... etc.
+		Casi no se usa en aplicaciones normales
+		Cuesta muchos recursos de computo
+	Pero en codigo es sencillo de hacer...
+	
+	1 obtienes el tipo del objeto en cuestion con .GetType() 
+		// esto regresa si es un obj, un int, un array, etc.
+	2 encadenas y obtienes las propiedades del objeto con .GetProperties() 
+		// regresa las props de personas p.e. = nombre, email, etc.
+	Fin de la reflexion
+
+2 Guardas cada propiedad en una cadena. 
+
+A Problema = Como juntamos el nombre de las columnas/propiedades en una fila??
+
+	Para juntar todas las propiedades en una fila, necesitamos un foreach y concatenar los valores en una 	variable de tipo cadena. 
+
+B Problema de la comma (,): Los archivos csv separan las columnas por comas. Como logramos esto?
+
+	Añadimos la coma a la cadena que tiene el header (las columnas).
+	Pero, donde? Al inicio o al final?	
+	Cualquier opcion es buena. Elegimos poner la coma al inicio por seguir siempre un estandar de procedimiento.
+	
+C Problema = Remover la coma del inicio. 
+
+	Porque en un csv no hay coma al inicio. Si la hay, indica que el campo de esa columna esta vacio y romperia el orden de nuestras columnas.
+
+	Solucion Substring.
+		a la variable que guarda el header de las columnas le aplicamos una subcadena que inicie en el segundo caracter, es decir en la posicion [1]. La posicion del primer caracter seria [0]. 
+		Aniadimos los encabezados a la lista de filas.
+		
+		
+3 Hay que obtener las filas con los datos
+
+A Problema como recorremos los datos para guardar/imprimir las celdas de las columnas en el orden correcto.
+
+	Solucion es como si manejaramos una tabla. Necesitamos un ciclo anidado.
+	
+	El ciclo padre recorre las filas.
+	El ciclo hijo recorre las columnas.
+	En cada columna aniadimos la columna a una cadana, y las vamos concatenando.
+	Al final, tenemos una cadena con los valores de las columnas en una fila.
+	Aniadimos cada fila a la lista de filas.
+	Vamos a guardar la lista de filas en el archivo de texto. 
+	
+4 Guardar en el archivo las filas
+	File.WriteAllLines(@path, filas)
+	
+	listo!
+	
+5 Probar el desarrollo
+	En seco, va a guardar el encabezado (el nombre de las columnas) y en cada fila los valores.
+	Ejecutamos el programa. 
+	Abrimos la capeta donde guardamos el archivo de texto con el Explorador de archivos.
+	Comprobamos que esten los valores.
+	Voila.
+	
+	
+6 Metodo para revisar si hay malas palabras retorna bool y recibe una cadena
+	Revisa si la cadena contiene las palabrotas que definas... Chinga, tonto
+	si si, regresa bool
+	
+	
+7 Hacer la validacion de las plabras en el ciclo hijo 
+	si el valor de la columna contiene una palabrota, rompe el ciclo
+	No agregues esa fila a la lista de filas.
+	
+A Problema. En una condicion validamos el metodo ContienePalabrotas...
+	Si si, rompemos el ciclo. ok
+	Pero como le hacemos para no aniadir esta fila a la lista de filas...
+	
+	Necesitas otra condicion, 
+		si palabrotas es true, entonces continua... no aniadas la lista 
+	si es falso, entonces si aniade la lista.
+	
+	Si no ponemos la condicion que abraza el continue... nunca se va a ejectuar la linea de aniadir una fila valida (que no tiene palabrotas) a la lista... Por que? Porque el continue salta esas sentencias.
+	
+	Para esto, se necesita poner fuera de las dos condiciones una bandera bool que vamos a checar.
+	Al declararla la ponemos en falso.
+	Si el metodo ContienePalabras regresa true, entonces actualizamos la bandera a true y rompemos el clico.
+	Antes del aniadir fila a la lista de filas, ya en el ciclo padre, poemos el segundo if... con la bandera
+	Listo.
+	
+
+8 Crear un evento para avisar que nos saltamos una linea... que en una fila(s) habia palabrotas y que la lista no tiene todas las filas...
+
+
+A Para crear el evento generico, tenemos refactorizar. Ahora
+	La clase DataAccess va a ser instanciada y recibe <T> : puede ser nuevo - new() // constructor vacio
+	
+	Ponemos el delegado Evento que recibe <T>
+		public event EventHandler<T> PalabrotaEncontrada
+		
+	Invocamos el evento en la validacion de la Palabrota, es decir, en el Foreach hijo. validar si es nulo
+		PalabrotaEncontrada?.Invoke(this, item) 
+			// item es la fila es el parametro que pasas para que el evento regrese los datos hacia arriba y veamos cual fue el error... que registro/fila fallo.
+			
+	En la clase principal, DataAcccess se suscribira al evento
+		Como DataAcccess recibe <T>, por cada lista de T diferente, debe suscribirse, porque se debe de concretar cada Tipo (lista, en este caso, la lista de personas y de carros) que se pasa al DataAcccess..
+		
+		Por eso, primero se instancia un objeto de DataAcccess por cada Lista<T> con un T diferente.
+		Esos objetos DataAcccess son los que se suscriben.		
+		El intellense nos creara el metodo HandleEvent de DataAcccess, le pondra un nombre al Metodo.
+		
+		En este metodo, manejamos lo que queremos hacer con los datos fallidos. 
+			recibe el objeto sender, y el Modelo concreto que fallo (ya sea Persona o Carro)
+			
+			Por ejemplo, podemos hacer un cosole log o llenar una nueva lista, o un archivo csv con esos errores.
+			
+B Probamos 
+
+Voila
+Fin
+
+
+Genericos + Eventos es super potente. DA UNA GRAN FLEXIBILIDAD.
+
+Por ejemplo, la case que guarda una lista en un archivo csv la guardamos en una libreria y ya esta... Es codigo que podemos reutilizar con todas la listas que podamos crear de cualquier proyecto que queramos guardar en un archivo CSV.
+Eso es muy potente...
+
+
+Tarea 
+Repetir el proyecto intentando no ver la solucion, a no ser que estes perdido
+Cambialo un poco.
+Aniade que el metodo manejador de evento del suscriptor guarde en una lista los errores encontrados.
+Procesarlos para corregiros
+Volverlos a guardar...
+
+
+
+
+		
+		
+
+	
+
+
+	
+	
