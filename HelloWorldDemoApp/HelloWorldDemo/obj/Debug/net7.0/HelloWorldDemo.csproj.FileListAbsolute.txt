@@ -1,0 +1,15 @@
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\HelloWorldDemoApp\HelloWorldDemo\bin\Debug\net7.0\HelloWorldDemo.exe
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\HelloWorldDemoApp\HelloWorldDemo\bin\Debug\net7.0\HelloWorldDemo.deps.json
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\HelloWorldDemoApp\HelloWorldDemo\bin\Debug\net7.0\HelloWorldDemo.runtimeconfig.json
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\HelloWorldDemoApp\HelloWorldDemo\bin\Debug\net7.0\HelloWorldDemo.dll
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\HelloWorldDemoApp\HelloWorldDemo\bin\Debug\net7.0\HelloWorldDemo.pdb
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\HelloWorldDemoApp\HelloWorldDemo\obj\Debug\net7.0\HelloWorldDemo.csproj.AssemblyReference.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\HelloWorldDemoApp\HelloWorldDemo\obj\Debug\net7.0\HelloWorldDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\HelloWorldDemoApp\HelloWorldDemo\obj\Debug\net7.0\HelloWorldDemo.AssemblyInfoInputs.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\HelloWorldDemoApp\HelloWorldDemo\obj\Debug\net7.0\HelloWorldDemo.AssemblyInfo.cs
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\HelloWorldDemoApp\HelloWorldDemo\obj\Debug\net7.0\HelloWorldDemo.csproj.CoreCompileInputs.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\HelloWorldDemoApp\HelloWorldDemo\obj\Debug\net7.0\HelloWorldDemo.dll
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\HelloWorldDemoApp\HelloWorldDemo\obj\Debug\net7.0\refint\HelloWorldDemo.dll
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\HelloWorldDemoApp\HelloWorldDemo\obj\Debug\net7.0\HelloWorldDemo.pdb
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\HelloWorldDemoApp\HelloWorldDemo\obj\Debug\net7.0\HelloWorldDemo.genruntimeconfig.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\HelloWorldDemoApp\HelloWorldDemo\obj\Debug\net7.0\ref\HelloWorldDemo.dll
