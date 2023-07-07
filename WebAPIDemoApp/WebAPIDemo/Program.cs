@@ -25,6 +25,20 @@ app.MapGet("/Name", (string firstName, string lastName) =>
 .WithName("GetName")
 .WithOpenApi();
 
+
+app.MapPost("/Person", (PersonModel person) => 
+{ 
+    return person;
+})
+.WithName("PostPerson")
+.WithOpenApi();
+
+
+app.MapPost("/Address", (AddressModel address) =>
+{
+    return address;
+})
+.WithName("PostAddress")
+.WithOpenApi();
+
 app.Run();
-
-
