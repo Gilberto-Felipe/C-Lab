@@ -1,0 +1,12 @@
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\RelationalDBSolution\DataAccessLibrary\bin\Debug\net7.0\DataAccessLibrary.deps.json
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\RelationalDBSolution\DataAccessLibrary\bin\Debug\net7.0\DataAccessLibrary.dll
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\RelationalDBSolution\DataAccessLibrary\bin\Debug\net7.0\DataAccessLibrary.pdb
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\RelationalDBSolution\DataAccessLibrary\obj\Debug\net7.0\DataAccessLibrary.csproj.AssemblyReference.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\RelationalDBSolution\DataAccessLibrary\obj\Debug\net7.0\DataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\RelationalDBSolution\DataAccessLibrary\obj\Debug\net7.0\DataAccessLibrary.AssemblyInfoInputs.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\RelationalDBSolution\DataAccessLibrary\obj\Debug\net7.0\DataAccessLibrary.AssemblyInfo.cs
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\RelationalDBSolution\DataAccessLibrary\obj\Debug\net7.0\DataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\RelationalDBSolution\DataAccessLibrary\obj\Debug\net7.0\DataAccessLibrary.dll
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\RelationalDBSolution\DataAccessLibrary\obj\Debug\net7.0\refint\DataAccessLibrary.dll
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\RelationalDBSolution\DataAccessLibrary\obj\Debug\net7.0\DataAccessLibrary.pdb
+C:\@MyProjects\C# courses\Tim Corey C#\01-C# Lab Apps\RelationalDBSolution\DataAccessLibrary\obj\Debug\net7.0\ref\DataAccessLibrary.dll
